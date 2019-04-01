@@ -1,4 +1,4 @@
-# File: randpassgen.py
+# File: PasswordGenerator.py
 
 import secrets
 
